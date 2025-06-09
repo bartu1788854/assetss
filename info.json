@@ -1,0 +1,11 @@
+{
+  "name": "Calf Coin",
+  "symbol": "CLF",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Calf Coin is a community-driven meme token inspired by farm life and internet culture.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0xd59487624A9343D0690469CAbCb7120a71DCEbAF",
+  "status": "active",
+  "id": "0xd59487624A9343D0690469CAbCb7120a71DCEbAF"
+}
